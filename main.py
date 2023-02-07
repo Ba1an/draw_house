@@ -1,5 +1,14 @@
+def floor():
+    """
+    TODO: from Alex
+    :return: None
+    """
+
+    pass
+
+
 def window():
-    """"
+    """
     Function is drowing window.
     :return: None
     """
